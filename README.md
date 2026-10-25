@@ -1,0 +1,1 @@
+# Fire-and-Smoke-Detection-Using-YOLOv8-Optical-Flow-and-LSTM-Classification
